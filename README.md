@@ -1,3 +1,12 @@
+## AIViewed
+
+This project uses Vapi AI to use AI voice workflows to generate a coherent theoretical technical interview and provide feedback using GeminiAPI. (UPDATE: Due to a major Vapi Update, the AI workflows are broken atm, but you can still speak with the AI assistant, just not follow the interview workflow).
+
+ <img width="1640" height="1078" alt="Screenshot 2025-08-03 at 12 59 17" src="https://github.com/user-attachments/assets/bceebf33-055e-4b1f-9c50-2c9007502cb3" />
+
+<img width="1487" height="730" alt="Screenshot 2025-08-03 at 13 00 04" src="https://github.com/user-attachments/assets/f571bd52-55fc-4587-a3f1-c9c5c8f28c8d" />
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
